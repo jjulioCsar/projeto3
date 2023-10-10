@@ -1,0 +1,50 @@
+:root{
+    --black:#000;
+    --gray:#708090;
+    --white:#FFF;
+
+}
+
+.container{
+    border: 2px solid rgb(193, 196, 50);
+    width: 2500px;
+    height: 1300px;
+    background-color:whitesmoke;
+}
+
+.nav{
+    padding: 1rem;
+    background-color: rgb(236, 230, 230);
+    font-size: large;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: var(--black);
+    font-weight: bold;
+}
+
+.article{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.footer{
+    text-align: center;
+    color: black;
+}
+p{
+    color: #000;
+    font-weight: 900px;
+    font-size: x-large;
+
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100px;
+}
+
+a{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+}
