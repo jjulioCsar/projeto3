@@ -46,5 +46,15 @@ h2{
 
 a{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: larger;
+  font-size: larger; 
+  transition: 1s;
+}
+
+a:link{
+    font-size: 25px;
+}
+a:hover{
+    color: coral;
+    font-size: 25px;
+    
 }
